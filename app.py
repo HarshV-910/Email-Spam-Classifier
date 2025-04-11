@@ -77,8 +77,6 @@ st.markdown(
         bottom: 0;
         z-index: -1;
     }
-
-    header {visibility: hidden;}
     </style>
     """,
     unsafe_allow_html=True
